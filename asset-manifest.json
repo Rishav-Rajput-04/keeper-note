@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/keeper-note/static/js/main.7502b31f.js",
+    "index.html": "/keeper-note/index.html",
+    "main.7502b31f.js.map": "/keeper-note/static/js/main.7502b31f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7502b31f.js"
+  ]
+}
