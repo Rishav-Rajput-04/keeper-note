@@ -1,6 +1,6 @@
-# Keeper Note App
+# Keeper Note
 
-Keeper Note App is a simple and intuitive note-taking application built using React.js, CSS, and Material-UI. The app allows users to add and delete notes with a minimalistic and responsive interface.
+Keeper Note is a simple and intuitive note-taking application built using React.js, CSS, and Material-UI. The app allows users to add and delete notes with a minimalistic and responsive interface.
 
 ## Features
 
@@ -17,7 +17,7 @@ Keeper Note App is a simple and intuitive note-taking application built using Re
 
 ## Live Demo
 
-Check out the live demo of the Keeper Note App: [Keeper Note App]((https://rishav-rajput-04.github.io/keeper-note/)
+Check out the live demo of the Keeper Note: [Keeper Note]((https://rishav-rajput-04.github.io/keeper-note/)
 
 ## Installation
 
